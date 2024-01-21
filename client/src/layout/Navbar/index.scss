@@ -1,0 +1,13 @@
+.navbar{
+    // background-color: #0A0A0A;
+    background:red;
+    color: #fff;
+
+    .nav-item{
+        // font-size: 18px;
+        text-transform: uppercase;
+    }
+    .active{
+        color: var(--main-color);
+    }
+}
